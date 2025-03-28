@@ -30,7 +30,7 @@ I have been doing and learning📚 web development 🧑‍💻 for 4-5 years. Si
 
 
 ### Frontend  
-<div align="center">  rishavanan
+<div align="center">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -92,9 +92,10 @@ I have been doing and learning📚 web development 🧑‍💻 for 4-5 years. Si
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=oleksandrholikov&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<a href="http://www.github.com/oleksandrholikov"><img src="https://github-readme-stats.vercel.app/api?username=oleksandrholikov&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="oleksandrholikov's GitHub stats" /></a>
+
+<a href="https://github.com/oleksandrholikov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandrholikov&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
