@@ -1,5 +1,12 @@
-### <div align="center">I'm Oleksandr a full-stack developer 👨‍💻 </div>  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oleksandr Holikov
+=========================================================================================================================================
+
+Full-Stack WebDeveloper
+-----------------------
+
+I have been doing and learning📚 web development 🧑‍💻 for 4-5 years. Since then I changed my career in a restaurant due to instability in this area during Covid🦠
   
+🌍  I'm based in Paris
 
 📚I'm studying at IT school EPITECH [WEB@cademy]  
   
@@ -89,7 +96,6 @@
 
 <br/>  
 
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={oleksandrholikov}&theme={theme_name}&exclude={exclude}
 
 
 <!--
