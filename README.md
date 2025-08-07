@@ -11,7 +11,8 @@ I have been doing and learning📚 web development 🧑‍💻 for 4-5 years. Si
 📚I'm studying at IT school EPITECH [WEB@cademy]  
   
 
-🔭 I’m currently working on [Github Profilinator]()  
+🔭 I’m currently working on: KANOV -  is a fully functional commercial e-commerce website designed for selling books, manga, and reading accessories.
+This project delivers a complete and professional online shopping experience with a focus on usability, performance, and scalability.(team-project)
  
   
 
