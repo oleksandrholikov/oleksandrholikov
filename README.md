@@ -12,7 +12,7 @@ I have been doing and learning📚 web development 🧑‍💻 for 4-5 years. Si
   
 
 🔭 I’m currently working on [Github Profilinator]()  
- 🤳 [MyPortfolio](https://oleksandrholikov.github.io/portfolio-publuc/)  
+ 
   
 
 🌱 I’m currently learning React and TypeScript  
