@@ -15,7 +15,7 @@ I have been doing and learning📚 web development 🧑‍💻 for 4-5 years. Si
  
   
 
-🌱 I’m currently learning React and TypeScript  
+🌱 I’m currently learning React and TypeScript; PHP+Symfony;
   
 
 ⚡ Fun fact:13 years of professional dancing; the highest award is the European Cup in the category from 14 to 16 years old  
