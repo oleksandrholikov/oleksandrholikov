@@ -8,7 +8,7 @@ I have been doing and learning📚 web development 🧑‍💻 for 4-5 years. Si
   
 🌍  I'm based in Paris
 
-📚I'm studying at IT school EPITECH [WEB@cademy]  
+📚I'm studying at IT school Web@cademie by EPITECH 
   
 
 🔭 I’m currently working on: KANOV -  is a fully functional commercial e-commerce website designed for selling books, manga, and reading accessories.
